@@ -19,7 +19,7 @@ Mentor de ideas de negocios basado en soluciones TI del programa Apps punto co c
 [Tips en Instagram](https://instagram.com/chrisgamezprofe)
 
 ## YouTube
-[Canal de YouTube](https://www.youtube.com/c/ChrisGamezProfe=subscriber)
+[Canal de YouTube](https://www.youtube.com/@ChrisGamezProfe=subscriber)
 
 ## Cursos donde soy Profe
 - ⚡ [Desarrolle su primer Juego para Android usando Kotlin](https://chriscursos.com/p/juego-en-android-kotlin-desde-cero)
