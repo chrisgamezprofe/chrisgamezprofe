@@ -13,20 +13,17 @@ Mentor de ideas de negocios basado en soluciones TI del programa Apps punto co c
 ![MySql](https://img.shields.io/badge/-MySQL-yellow?style=plastic&logo=Mysql&logoColor=black)
 
 ## Mi página web de cursos
-[www.chriscursos.com](https://chriscursos.com)
+[https://christian-udemy.hotmart.host/cursos](https://christian-udemy.hotmart.host/cursos)
 
 ## Instagram
 [Tips en Instagram](https://instagram.com/chrisgamezprofe)
 
 ## YouTube
-[Canal de YouTube](https://www.youtube.com/@ChrisGamezProfe)
+[Canal de YouTube](https://www.youtube.com/@TechViajero)
 
 ## Cursos donde soy Profe
-- ⚡ [Desarrolle su primer Juego para Android usando Kotlin](https://chriscursos.com/p/juego-en-android-kotlin-desde-cero)
-- ⚡ [Crea un escritorio administrativo en menos de una hora](https://chriscursos.com/p/crear-dashboard-con-html-css-y-boopstrap)
 - ⚡ [Proyecto Swift 5 con Bases de Datos para iOS desde ceros](https://www.udemy.com/course/swift-proyecto-ios-con-core-data-desde-cero-en-espanol/)
 - ⚡ [Web eCommerce en PHP con pagos en línea PSE, PAYPAL y PayU](https://www.udemy.com/course/aprende-a-crear-web-en-php-poo-con-pagos-en-linea/)
 - ⚡ [Introducción a MongoDB (NoSQL) - los conceptos esenciales](https://www.udemy.com/course/aprende-mongodb-en-un-dia-practico-nosql/)
 ## Contacto
-[![Twitter Badge](https://img.shields.io/badge/-Twitter-1DA1F2?style=plastic&logo=Twitter&logoColor=white&link=https://twitter.com/ChrisSociologia)](https://twitter.com/ChrisSociologiaa)
 [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-0077B5?style=plastic&logo=Linkedin&logoColor=white&link=https://linkedin.com//in/christian-gamez/)](https://linkedin.com//in/christian-gamez/)
